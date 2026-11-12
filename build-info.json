@@ -1674,14 +1674,44 @@
       "sha256": "f8a82d12afc62ef0dcfec96c68fca25cda10e873d560aa84a5a8f49fca19e5c8"
     },
     {
+      "path": "licenses/Cannon-es-MIT.txt",
+      "bytes": 1125,
+      "sha256": "4714d0272f50cb21fe46fe29333c7c600d3c85b5ebd2a80f4db07e8cfccbf5b2"
+    },
+    {
+      "path": "licenses/GameDevLand-Engine-MIT.txt",
+      "bytes": 1069,
+      "sha256": "f48838bade9b907803e20274dffa16c2e79813bf2395431c14ebfe16fa57758b"
+    },
+    {
+      "path": "licenses/Howler-MIT.txt",
+      "bytes": 1088,
+      "sha256": "0ad5aef7beeb552832fe01db1c46933f948dfe5da35017bd0efa0006ffd2ced9"
+    },
+    {
       "path": "licenses/NotoSans-OFL.txt",
       "bytes": 4395,
       "sha256": "e2e177a32561584d4fc13aaa3cd8e53758a12910f013fe9ca125419111722029"
     },
     {
+      "path": "licenses/PixiJS-MIT.txt",
+      "bytes": 1092,
+      "sha256": "5ce7447bc57f7349ffc48338782fbcabe613696e00712b20d66bc58e780f9473"
+    },
+    {
       "path": "licenses/Rubik-OFL.txt",
       "bytes": 4383,
       "sha256": "3cb6a6084f5d942a8f3b5fda0f6a90dde18d7f7f1798886f4043d18f8c1a811e"
+    },
+    {
+      "path": "licenses/THIRD-PARTY.md",
+      "bytes": 414,
+      "sha256": "22853a142fa69197ef0cf213523ee69ff748e9542a6aedce4ce4bf3d1d3603b4"
+    },
+    {
+      "path": "licenses/Threejs-MIT.txt",
+      "bytes": 1081,
+      "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
     },
     {
       "path": "playgama-bridge-config.json",
